@@ -1,4 +1,4 @@
-#HOW TO WRITE A POST
+# HOW TO WRITE A POST
 
 1. Frist, find the `_post` folder where your blog posts will live.
 
