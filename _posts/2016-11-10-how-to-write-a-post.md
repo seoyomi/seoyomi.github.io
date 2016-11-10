@@ -17,7 +17,7 @@ YEAR-MONTH-DAY-title.MARKUP
 
 3. Once you made a file, it is better to add this code.
 
-```
+```markdown
 ---
 layout: post
 ---
