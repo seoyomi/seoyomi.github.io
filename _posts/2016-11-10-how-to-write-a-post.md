@@ -1,5 +1,7 @@
-###    HOW TO WRITE A POST
-1. Frist, find the **_post** folder where your blog posts will live.
+#HOW TO WRITE A POST
+
+1. Frist, find the `_post` folder where your blog posts will live.
+
 2. Then create a file which has to be named according to the following format.
 
 ```
